@@ -1,2 +1,0 @@
-FORM centos
-RUN yum update -y
